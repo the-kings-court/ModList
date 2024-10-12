@@ -1,4 +1,4 @@
 # Server Mod List
 
-- lolol
- - lololol 
+1. lololol
+ lololol
