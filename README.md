@@ -1,5 +1,6 @@
 <details>
-  <summary># Clientside Mod List</summary>
+  <summary>Clientside Mod List</summary>
+
   ## Resourcepacks + Shaders (Optional)
   1. Fancy Crops
   2. Hyper Realistic Sky
@@ -94,7 +95,9 @@
   82. playerAnimator
 </details>
 <details>
-  <summary># Serverside Mod List</summary>
+  <summary>Serverside Mod List</summary>
+
+  
   ## Mods
   
   1. ATi Structures Mod
